@@ -1,2 +1,3 @@
-# python-ai-web
-Python AI ve Web Uygulamaları
+Python ile AI (Yapay Us) ve web uygulamaları paylaşımları burada olacak.
+
+Derin öğrenme, makine öğrenmesi, veri bilimi, Django...
